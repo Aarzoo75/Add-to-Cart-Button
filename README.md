@@ -1,6 +1,6 @@
 # Add to Cart Button
 
-This is a sample code to create an "Add to cart" button using HTML, CSS and JavaScript.
+This is a sample code to create an "Add to cart" button using HTML, CSS and JavaScript
 
 In the HTML code, the button is created using a `<button>` element, and a `<div>` element is used to create the cart icon. The icon is created using several nested `<div>` elements. There are several other `<div>` elements used for different purposes like "notification success" and "notification cancel".
 
